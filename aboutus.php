@@ -3,7 +3,7 @@
 session_start();
 ?>
 
-<html>
+<html >
 
   <head>
     <title> About | The Green Chilli </title>
