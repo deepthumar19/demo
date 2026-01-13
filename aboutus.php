@@ -53,7 +53,7 @@ session_start();
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">The Green Chilli</a>
+          <a class="navbar-brand" href="index.php">The Green Chilli!</a>
         </div>
 
         <div class="collapse navbar-collapse " id="myNavbar">
@@ -231,4 +231,5 @@ else {
     
 
          </body>
+
 </html>
