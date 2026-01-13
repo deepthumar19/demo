@@ -72,7 +72,7 @@ if(isset($_SESSION['login_user1'])){
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#"><span class="glyphicon glyphicon-user"></span> Welcome <?php echo $_SESSION['login_user1']; ?> </a></li>
             <li><a href="./admin/myrestaurants.php">MANAGER CONTROL PANEL</a></li>
-            <li><a href="./admin/logout.php"><span class="glyphicon glyphicon-log-out"></span> Log Out </a></li>
+            <li><a href="./admin/logout.php"><span class="glyphicon glyphicon-log-out"></span> Log Out</a></li>
           </ul>
 <?php
 }
@@ -233,3 +233,4 @@ else {
          </body>
 
 </html>
+
