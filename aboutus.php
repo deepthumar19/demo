@@ -6,7 +6,7 @@ session_start();
 <html >
 
   <head>
-    <title> About | The Green Chilli </title>
+    <title> About | The Green Chilli</title>
   </head>
   <link rel="shortcut icon" href="images/logos/3.png" type="image/x-icon">
   <link rel="stylesheet" type = "text/css" href ="css/aboutus.css">
@@ -233,4 +233,5 @@ else {
          </body>
 
 </html>
+
 
