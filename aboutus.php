@@ -131,7 +131,7 @@ else {
     </div>
     <h2 style="color: red; text-align:center;">About the food culture in The Green Chilli!</h2>
     <br>
-    <h4><i>Order food & beverages online from restaurants near & around you. We deliver food from your neighborhood local joints, your favorite cafes, luxurious & elite restaurants in your area, and also from chains like Dominos, KFC, Burger King, Pizza Hut, FreshMenu, Mc Donald's, Subway, Faasos, Cafe Coffee Day, Taco Bell, and more. Exciting bit? We place no minimum order restrictions! Order in as little (or as much) as you'd like. We'll Swiggy it to you!</i></h4>
+    <h4><i>Order food & beverages online from restaurants near & around you. We deliver food from your neighborhood local joints, your favorite cafes, luxurious & elite restaurants in your area, and also from chains like Dominos, KFC, Starbucks, Burger King, Pizza Hut, FreshMenu, Mc Donald's, Subway, Faasos, Cafe Coffee Day, Taco Bell, and more. Exciting bit? We place no minimum order restrictions! Order in as little (or as much) as you'd like. We'll Swiggy it to you!</i></h4>
   </div>
 
     <div class="location">
