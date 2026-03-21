@@ -6,7 +6,7 @@ session_start();
 <html>
 
   <head>
-    <title> Home </title>
+    <title> Home Page</title>
   </head>
   <link rel="shortcut icon" href="images/logos/3.png" type="image/x-icon">
   <link rel="stylesheet" type = "text/css" href ="./css/index.css">
